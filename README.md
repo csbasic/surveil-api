@@ -2,7 +2,7 @@
 
 > An App to help service health and medical coditions.
 
-![screenshot](./surveil-logo.jpg)
+![logo](surveil-logo.jpg)
 
 Surveil API collects data sent from the mobile application to store it to the remote server. 
 
